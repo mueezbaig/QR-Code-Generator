@@ -59,7 +59,7 @@ Enables users to save the generated QR code as a PNG file to their local system.
 
 Before running the application, ensure you have the following installed:
 
-- Python (version 3.x)
+- Python (version 3.9 or above versions )
 - Tkinter library (usually included with Python)
 
 ## Required Packages
