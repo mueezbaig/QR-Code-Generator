@@ -2,8 +2,8 @@
 
 This is a simple Python application built using Tkinter for generating QR codes. The application allows users to enter a URL, choose a color for the QR code, generate the QR code, save it as a PNG file, copy the URL to clipboard, reset the input, and exit the application.
 
-![GUI](https://example.com/gui_photo.png)
-
+![GUI](https://github.com/mueezbaig/QR-Code-Generator/blob/main/GUI.png
+)
 ## Features of QR Codes in Today's World
 
 QR (Quick Response) codes have become ubiquitous in today's digital landscape. They offer various functionalities and benefits, including:
@@ -22,31 +22,32 @@ QR (Quick Response) codes have become ubiquitous in today's digital landscape. T
 
 ### 1. Enter URL:
 
-![Choose Color](https://example.com/choose_color.png)
+![Enter URL](https://github.com/mueezbaig/QR-Code-Generator/blob/main/Enter%20Url.png)
 
-Allows users to input a url for the QR code. For which the the qr code is generated
+Allows users to input a url for the QR code. For which the the qr code is generated.
 
 ### 2. Choose Color
 
-![Choose Color](https://example.com/choose_color.png)
+![Choose Color](https://github.com/mueezbaig/QR-Code-Generator/blob/main/Choosing%20color.png)
 
 Allows users to pick a custom color for the QR code. The selected color is applied to the QR code before generation.
 
 ### 3. Generate QR Code
 
-![Generate QR Code](https://example.com/generate_qr.png)
+![Generate QR Code](https://github.com/mueezbaig/QR-Code-Generator/blob/main/generate%20qr%20code.png)
 
 Allows users to input a URL and generate a corresponding QR code. It provides visual feedback of the generated QR code on the interface.
 
 ### 4. Copy URL
 
-![Copy URL](https://example.com/copy_url.png)
+![Copy URL](https://github.com/mueezbaig/QR-Code-Generator/blob/main/url%20copeid%20to%20clipboard.png)
 
 Copies the entered URL to the clipboard, facilitating easy sharing or pasting of the URL into other applications or platforms.
 
 ### 5. Save QR Code
 
-![Save QR Code](https://example.com/save_qr.png)
+![Save QR Code](https://github.com/mueezbaig/QR-Code-Generator/blob/main/save.png
+)
 
 Enables users to save the generated QR code as a PNG file to their local system. Users can specify the file name and location for saving.
 
