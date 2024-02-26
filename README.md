@@ -38,6 +38,10 @@ Allows users to pick a custom color for the QR code. The selected color is appli
 
 Allows users to input a URL and generate a corresponding QR code. It provides visual feedback of the generated QR code on the interface.
 
+The Generated QR CODE:
+
+![Generated QR Code](https://github.com/mueezbaig/QR-Code-Generator/blob/main/qr.png)
+
 ### 4. Copy URL
 
 ![Copy URL](https://github.com/mueezbaig/QR-Code-Generator/blob/main/url%20copeid%20to%20clipboard.png)
